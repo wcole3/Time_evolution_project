@@ -1,5 +1,5 @@
 # Time_evolution_project
-Script used to calculation the time evolution of tunneling motions of water clusters
+Script used to calculate the time evolution of tunneling motions of water clusters
 
 Brief descirption of files:
 
